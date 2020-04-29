@@ -63,8 +63,6 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 **Descripción atributos:** 
 
 
-
-
 # 3. Procesamiento de datos 
 
 • Descripción detallada del procesamiento realizado a los datos (algoritmos, herramientas utilizadas, modelos, etc)
@@ -89,12 +87,13 @@ Fueron superpuestas capas relevantes como páramos, cobertura de tierras, superf
 
 ![Zona de influencia]( pantallazo6.png "clip")
 
+ 
+• Cargar los datos en el servidor postgresql/ postgis asignado para la clase. 
 
+Por medio de Qgis se van a cargar cada una de las capas a la base de datos Postgis, para esto se debe crear una nueva conexión tal como se ilustra a continuación: 
 
+![Qgis]( pantallazo7.png "conexion base de datos")
 
-
-• Idealmente incluir procesos que impliquen la utilización de las relaciones espaciales entre objetos, medidas, distancias y/o generación de geometrías. 
-Cargar los datos en el servidor postgresql/ postgis asignado para la clase. 
 • Listar las capas cargadas en el servidor postgresql/postgis (Nota:No olvide el prefijo asignado para la clase.)
 
 # 4. Capa Simbología SLD 
@@ -111,7 +110,7 @@ Adjuntar imagen con la layenda de la capa.
 
 • Publicar una de las capas utilizando simbología basada en CSS
 • Incluir texto del CSS en el markdown del Readme.md
-• Describir métoso utilizado para clasificar los datos.
+• Describir método utilizado para clasificar los datos.
 • Describir el criterio para la selección de los colores a utilizar en la simbología
 • Las reglas de la simbología deben incluir control de escala y etiquetado.
 • Adjuntar imagen con la leyenda de la capa. 
