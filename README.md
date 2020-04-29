@@ -85,6 +85,11 @@ De modo que los municipios intersectados (ArcToolbox > Analysis Tools > Overlay)
 
 ![Zona de influencia]( pantallazo5.png "municipios colidantes")
 
+Fueron superpuestas capas relevantes como páramos, cobertura de tierras, superficies de agua y vías. Para el primer lapso de tiempo  se hizo un análisis espacial con la herramienta Clip (ArcToolbox > Analysis Tools > Extract) de Ráquira con capas como vías, páramos, cobertura vegetal, cobertura de tierra para identificar las fortalezas y las falencias de las potencialidades referidas a la producción minera (carbón) y al sector agrícola de forma espacial. Esta tarea se repite para cada uno de los municipios obtenidos de la tarea anterior.
+
+![Zona de influencia]( pantallazo6.png "clip")
+
+
 
 
 
