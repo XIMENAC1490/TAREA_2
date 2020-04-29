@@ -75,6 +75,12 @@ En esta etapa se realizan procesos y tratamiento de los datos cartográficos pri
 
 ![Zona de estudio]( pantallazo2.png "zona_de_estudio")
 
+Realizando  un  buffer o zona de influencia (ArcToolbox > Analysis Tools > Proximity) con un radio de 20 Kilómetros.
+
+![Zona de influencia]( pantallazo3.png "Buffer")
+
+
+
 • Idealmente incluir procesos que impliquen la utilización de las relaciones espaciales entre objetos, medidas, distancias y/o generación de geometrías. 
 Cargar los datos en el servidor postgresql/ postgis asignado para la clase. 
 • Listar las capas cargadas en el servidor postgresql/postgis (Nota:No olvide el prefijo asignado para la clase.)
