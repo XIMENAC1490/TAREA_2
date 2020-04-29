@@ -73,7 +73,7 @@ En esta etapa se realizan procesos y tratamiento de los datos cartográficos pri
 
 ![Zona de estudio]( pantallazo1.png "zona_de_estudio")
 
-
+![Zona de estudio]( pantallazo2.png "zona_de_estudio")
 
 • Idealmente incluir procesos que impliquen la utilización de las relaciones espaciales entre objetos, medidas, distancias y/o generación de geometrías. 
 Cargar los datos en el servidor postgresql/ postgis asignado para la clase. 
