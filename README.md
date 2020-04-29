@@ -79,6 +79,9 @@ Realizando  un  buffer o zona de influencia (ArcToolbox > Analysis Tools > Proxi
 
 ![Zona de influencia]( pantallazo3.png "Buffer")
 
+De modo que los municipios intersectados (ArcToolbox > Analysis Tools > Overlay) dentro de dicho polígono tuvieron que ser indagados frente al desarrollo actual de las potencialidades para establecer los integrantes del modelo y la necesidad de desarrollar las potencialidades comunes desde Ráquira como estrategia integradora supramunicipal con los lineamientos de una metodología prospectiva territorial de carácter no prescriptivo y un enfoque participativo, sujeta a entornos inestables,  complejos  y  dinámicos.
+
+![Zona de influencia]( pantallazo4.png "municipios colidantes")
 
 
 • Idealmente incluir procesos que impliquen la utilización de las relaciones espaciales entre objetos, medidas, distancias y/o generación de geometrías. 
