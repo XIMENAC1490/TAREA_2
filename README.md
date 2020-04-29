@@ -83,6 +83,10 @@ De modo que los municipios intersectados (ArcToolbox > Analysis Tools > Overlay)
 
 ![Zona de influencia]( pantallazo4.png "municipios colidantes")
 
+![Zona de influencia]( pantallazo5.png "municipios colidantes")
+
+
+
 
 • Idealmente incluir procesos que impliquen la utilización de las relaciones espaciales entre objetos, medidas, distancias y/o generación de geometrías. 
 Cargar los datos en el servidor postgresql/ postgis asignado para la clase. 
