@@ -94,6 +94,16 @@ Por medio de Qgis se van a cargar cada una de las capas a la base de datos Postg
 
 ![Qgis]( pantallazo7.png "conexion base de datos")
 
+En la pestaña Bases de datos se hace clic en Administrador de Bases de Datos 
+
+![Qgis]( pantallazo8.png "conexion base de datos")
+
+Se despliega la siguiente ventana, en donde se dará clic en Importar Capa/Archivo
+
+![Qgis]( pantallazo9.png "conexion base de datos")
+
+![Qgis]( pantallazo.png "conexion base de datos")
+
 • Listar las capas cargadas en el servidor postgresql/postgis (Nota:No olvide el prefijo asignado para la clase.)
 
 # 4. Capa Simbología SLD 
