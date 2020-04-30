@@ -1202,12 +1202,23 @@ Se valida que no exista ningún error para cargar la simbología.
 
 # 5. Capa simbología CSS
 
-• Publicar una de las capas utilizando simbología basada en CSS
-• Incluir texto del CSS en el markdown del Readme.md
-• Describir método utilizado para clasificar los datos.
-• Describir el criterio para la selección de los colores a utilizar en la simbología
-• Las reglas de la simbología deben incluir control de escala y etiquetado.
-• Adjuntar imagen con la leyenda de la capa. 
+Al  crear la simbologia  CSS se  debe acceder a geoserver y en la pestaña estilos> agregar uno nuevo, se llenan los campos como a continuacion y se escoje el formato CSS > Style Conten  se selecciona polygon y generate para que genere el codigo
+
+![Qgis]( pantallazo28.png "conexion base de datos")
+
+Observamos la previsualización:
+
+![Qgis]( pantallazo31.png "conexion base de datos")
+
+/* @title Paramos delimitados */
+* {
+    stroke: #000000;
+    stroke-width: 0.5;
+    fill: #93c47d;
+}
+
+
+
 
 # 6. Capa Simbología YSLD 
 
