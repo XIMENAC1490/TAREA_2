@@ -106,6 +106,8 @@ Se despliega la siguiente ventana, en donde se dará clic en Importar Capa/Archi
 
 • Listar las capas cargadas en el servidor postgresql/postgis (Nota:No olvide el prefijo asignado para la clase.)
 
+Se selecciona la capa que se desea cargar y se nombra con el prefijo asignado para la clase xc_ 
+
 ![Qgis]( pantallazo11.png "conexion base de datos")
 
 # 4. Capa Simbología SLD 
