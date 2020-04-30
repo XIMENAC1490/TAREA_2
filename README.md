@@ -123,6 +123,10 @@ Se edita la capa que va a ser publicada
 
 ![Qgis]( pantallazo15.png "conexion base de datos")
 
+**Capas Cargadas:**
+
+![Qgis]( pantallazo13.png "conexion base de datos")
+
 
 # 4. Capa Simbología SLD 
 
