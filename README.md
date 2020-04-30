@@ -450,8 +450,8 @@ Se valida que no exista ningún error para cargar la simbología.
 ![Qgis]( pantallazo22.png "conexion base de datos")
 
 **• Coberturas de la tierra**
-
-?xml version="1.0" encoding="UTF-8"?>
+```xml
+>?xml version="1.0" encoding="UTF-8"?>
 <StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/StyledLayerDescriptor.xsd" xmlns:se="http://www.opengis.net/se" xmlns:ogc="http://www.opengis.net/ogc" version="1.1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NamedLayer>
     <se:Name>xc_Cobertura_tierra_2010_2012_C</se:Name>
@@ -973,7 +973,7 @@ Se valida que no exista ningún error para cargar la simbología.
     </UserStyle>
   </NamedLayer>
 </StyledLayerDescriptor>
-
+```
 
 
 
