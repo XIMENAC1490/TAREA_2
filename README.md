@@ -130,8 +130,29 @@ Se edita la capa que va a ser publicada
 
 # 4. Capa Simbología SLD 
 
-• Publicar una de las capas utilizando simbología en SLD
-• Si utiliza QGIS para generar el SLD, favor mencionar brevemente el proceso realizado. 
+**• Publicar una de las capas utilizando simbología basada en SLD**
+
+Con esta simbología se van a publicar las siguientes capas: 
+
+• Capa de polígonos municipios 
+• Capa de polígonos Coberturas de la tierra
+
+**• Si utiliza QGIS para generar el SLD, favor mencionar brevemente el proceso realizado**
+
+Para generar la simbología SLD, se da clic derecho propiedades> simbología la cual es utilizada para el atributo nombre de municipio 
+
+![Qgis]( pantallazo18.png "conexion base de datos")
+
+Se hace clic en estilo>guardar estilo>Archivos SLD tal como se ilustra a continuación: 
+
+![Qgis]( pantallazo17.png "conexion base de datos")
+
+Seguidamente se asigna esta simbología a la capa asignada en geoserver, vamos a estilos y seleccionamos nuevo estilo 
+
+![Qgis]( pantallazo19.png "conexion base de datos")
+
+
+ 
 Incluir texto del SLD en el markdown del Readme.md 
 • Describir método utilizado para clasificar datos. 
 Describir el criterio para la selección de los colores a utilizar en la simbología
@@ -158,7 +179,7 @@ Adjuntar imagen con la leyenda de la cpa
 
 # 7. Grupo de capas 
 
-• Crear un layer group (https://docs.geoserver.org/stable/en/user/data/webadmin/layergroups.html ) que comtenga las capas creadas en los puntos, y   y las adicionales que considere necesarias para darle contexto a la visualización ( ejm. límites departamentales, límites municipales, límites internacionales, etc)
+• Crear un layer group (https://docs.geoserver.org/stable/en/user/data/webadmin/layergroups.html ) que contenga las capas creadas en los puntos, y   y las adicionales que considere necesarias para darle contexto a la visualización ( ejm. límites departamentales, límites municipales, límites internacionales, etc)
 • Adjuntar  el URL  de la previsualización openlayers del conjunto de capas generada por Geoserver.Ejemplo: http://34.83.176.208:18080/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=tiger-ny&bbox=-74.047185%2C40.679648%2C-73.907005%2C40.882078&width=531&height=768&srs=EPSG%3A4326&format=application/openlayers
 
 # 8. Conclusiones 
