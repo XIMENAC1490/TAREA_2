@@ -31,7 +31,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Descripción atributos:** Páramo, Departamento, Área 
 
-# • Ecosistemas generales de Colombia 
+**•Ecosistemas generales de Colombia ** 
 
 **Información del proveedor:** El Sistema de Información Ambiental de Colombia (SIAC) “Es el conjunto integrado de actores, políticas, procesos, y tecnologías involucrados en la gestión de información ambiental del país, para facilitar la generación de conocimiento, la toma de decisiones, la educación y la participación social para el desarrollo sostenible”.
 
@@ -41,8 +41,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Descripción atributos:** 
 
-
-# • Cobertura de la tierra 2010-2012 
+**• Cobertura de la tierra 2010-2012 *** 
 
 **Información del proveedor:** El Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM- como integrante del Sistema Nacional Ambiental -SINA-, es responsable de la generación de información y conocimiento sobre el estado de los recursos naturales renovables del país, y como instituto de investigación de carácter nacional, juega un papel fundamental en el diseño de políticas para la protección y mejoramiento del medio ambiente.
 
@@ -52,7 +51,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Descripción atributos:** 
 
-# • Cartografía Base escala 1:25.000
+**• Cartografía Base escala 1:25.000** 
 
 **Información del proveedor:** La cartografía representa áreas del terreno que muestran elementos básicos como son curvas de nivel, aguas, red hídrica, y algunos elementos artificiales, humanos o culturales, como son las redes de transporte y los centros poblados, entre otros. La cartografía básica está orientada a la representación general de los elementos geográficos existentes en su ámbito, sin dar mayor intensidad a un fenómeno u otro (IGAC, Grupo IDE & GIG).
 
@@ -110,15 +109,22 @@ Se selecciona la capa que se desea cargar y se nombra con el prefijo asignado pa
 
 ![Qgis]( pantallazo11.png "conexion base de datos")
 
+Realizar la publicación de las capas en Geoserver 
+
+Vamos a la opción capas seguidamente agregar nuevo recurso 
+
+![Qgis]( pantallazo12.png "conexion base de datos")
+
+
 # 4. Capa Simbología SLD 
 
 • Publicar una de las capas utilizando simbología en SLD
 • Si utiliza QGIS para generar el SLD, favor mencionar brevemente el proceso realizado. 
 Incluir texto del SLD en el markdown del Readme.md 
 • Describir método utilizado para clasificar datos. 
-Describir el criterio para la selcción de los colores a utilizar en la simbología
+Describir el criterio para la selección de los colores a utilizar en la simbología
 • Las reglas de la simbología deben incluir control de escala y etiquetado.
-Adjuntar imagen con la layenda de la capa. 
+Adjuntar imagen con la leyenda de la capa. 
 
 # 5. Capa simbología CSS
 
