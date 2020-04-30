@@ -154,6 +154,11 @@ Seguidamente se asigna esta simbología a la capa asignada en geoserver, vamos a
 Se asigna el nombre 
 
 ![Qgis]( pantallazo20.png "conexion base de datos")
+
+Se valida que no exista ningún error 
+
+![Qgis]( pantallazo21.png "conexion base de datos")
+
  
 Incluir texto del SLD en el markdown del Readme.md 
 • Describir método utilizado para clasificar datos. 
