@@ -1208,7 +1208,7 @@ Al  crear la simbologia  CSS se  debe acceder a geoserver y en la pestaña estil
 
 Observamos la previsualización:
 
-![Qgis]( pantallazo31.png "conexion base de datos")
+![Qgis]( PANTALLAZO31.png "conexion base de datos")
 
 
 ```xml 
