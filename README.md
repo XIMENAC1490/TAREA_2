@@ -1224,16 +1224,51 @@ Observamos la previsualización:
 
 # 6. Capa Simbología YSLD 
 
-• Publicar una de las capas utilizando simbología basada en YSLD
-• Incluir texto del YSLD en el markdown del Readmen.md 
-• Describir método utilizado para clasificar los datos. 
-• Describir el criterio para la selección de los colores a utilizar en la simbología 
-* Las regals de la simbología deben incluir control de escala y etiquetado. 
-Adjuntar imagen con la leyenda de la cpa 
+Para crear la simbología YSLD se deb acceder a geoserver hacer clic en estilo> agragar un nuevo estilo, llenar cada uni de los campos  tal como se ilustra a continuación: 
+
+
+![Qgis]( pantallazo32.png "conexion base de datos")
+
+• Incluir texto del YSLD en el markdown del Readme.md 
+
+```xml
+title: 'YSLD Cook Book: Attribute-based polygon'
+feature-styles:
+- name: name
+  rules:
+  - name: leyenda3n
+    title: Bosque denso
+    filter: ${pop < '200000'}
+    symbolizers:
+    - polygon:
+        fill-color: '#66FF66'
+  - name: MediumPop
+    title: Herbazal
+    filter: ${pop >= '200000' AND pop < '500000'}
+    symbolizers:
+    - polygon:
+        fill-color: '#33CC33'
+  - name: LargePop
+    title: Pastos limpios
+    filter: pop > '500000'
+    symbolizers:
+    - polygon:
+        fill-color: '#009900'
+```
+![Qgis]( pantallazo32.png "conexion base de datos")
 
 # 7. Grupo de capas 
 
 • Crear un layer group (https://docs.geoserver.org/stable/en/user/data/webadmin/layergroups.html ) que contenga las capas creadas en los puntos, y   y las adicionales que considere necesarias para darle contexto a la visualización ( ejm. límites departamentales, límites municipales, límites internacionales, etc)
+
+Se hace clic en grupo de capas> agregar nuevo grupo de capas
+
+![Qgis]( pantallazo33.png "conexion base de datos")
+
+Se guarda y se previsualizan las capas 
+
+![Qgis]( pantallazo34.png "conexion base de datos")
+
 • Adjuntar  el URL  de la previsualización openlayers del conjunto de capas generada por Geoserver.Ejemplo: http://34.83.176.208:18080/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=tiger-ny&bbox=-74.047185%2C40.679648%2C-73.907005%2C40.882078&width=531&height=768&srs=EPSG%3A4326&format=application/openlayers
 
 # 8. Conclusiones 
