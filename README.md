@@ -115,6 +115,14 @@ Vamos a la opción capas seguidamente agregar nuevo recurso
 
 ![Qgis]( pantallazo12.png "conexion base de datos")
 
+Se selecciona el almacen de datos de donde se va a sacar la información 
+
+![Qgis]( pantallazo14.png "conexion base de datos")
+
+Se edita la capa que va a ser publicada
+
+![Qgis]( pantallazo13.png "conexion base de datos")
+
 
 # 4. Capa Simbología SLD 
 
