@@ -1210,13 +1210,15 @@ Observamos la previsualización:
 
 ![Qgis]( pantallazo31.png "conexion base de datos")
 
+
+```xml 
 /* @title Paramos delimitados */
 * {
     stroke: #000000;
     stroke-width: 0.5;
     fill: #93c47d;
 }
-
+```
 
 
 
