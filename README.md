@@ -8,20 +8,25 @@ Entender el proceso de publicación de mapas en internet utilizando una base de 
 
 # Actividades
 
-# 1. Definición del problema 
+**1. Definición del problema**
 
-# • Describa un problema hipotético que pueda resolverse a través del análisis y visualización de datos espaciales.
+**• Describa un problema hipotético que pueda resolverse a través del análisis y visualización de datos espaciales.**
 
 La complejidad territorial implica una gama de opciones para interpretar los territorios pero, así mismo, requiere un esfuerzo para dar a entender la necesidad de diseñar modelos de futuro para un desarrollo sostenible. En este aspecto, los ejercicios que se encuentran sobre el diagnóstico territorial son mayores a los existentes sobre prospectiva territorial o modelación territorial. 
 Tal como lo afirma Posada (2017) al referirse a la complejidad sobre los problemas territoriales que son tantos y tan variados que, a veces, las herramientas para tratarlos y manejarlos se quedan cortas. Aun así, en la evolución de las técnicas para el diseño territorial los SIG juegan un papel muy importante al permitir crear modelos en medio de la complejidad multiespacial, multitemporal y multiobjetivo. 
 En consecuencia, el ordenamiento territorial como proceso de apropiación de la comunidad frente a su  territorio, en lo referente a escenarios deseados a futuro, desencadena la posibilidad de orientar y priorizar asuntos que relacionen las dinámicas locales, regionales y nacionales. Asimismo de los aspectos de carácter social, económico, ambiental y cultural que aseguren una gestión integral del territorio. 
-# • Describa de forma general el enfoque propuesto para desarrollar el problema. 
 
-# 2. Fuentes de datos
+**• Describa de forma general el enfoque propuesto para desarrollar el problema.**
+
+Las potencialidades cuentan con grandes ofertas pro-ductivas en nuestro país gracias a diversos factores relacio-nados con características climáticas, composición de suelos, geomorfología, riqueza hídrica, diversidad de fauna y flora, entre otros. De modo tal que existen importantes extensio-nes de terreno aptas para ello que, ejecutadas bajo técnicas de producción armónicas con el aspecto ambiental, econó-mico y social, brindan un desarrollo para la gran mayoría de los municipios colombianos y particularmente para los co-rrespondientes al departamento de Boyacá.
+
+El  caso  particular  del  municipio  de  Ráquira (Boyacá,  Colombia), se destaca la divergencia de dinámicas en cuanto  al  sector  m agrícola;  pues  mientras  el  primero ha atravesado alzas constantes, el segundo ha sido testigo de caídas. En consecuencia, estos datos reflejan la necesidad de optimizar estructuras de forma y de fondo que promuevan mejores resultados bajo esquemas supramunici-pales, con los que ambas potencialidades se desarrollen de manera sistémica, sostenible e incluyente.Para  el  ordenamiento  territorial  es  necesario  tener  en  cuenta que un modelo corresponde a un diseño realizado por  un  observador  que  establece  y  modera  las  relaciones  sistémicas compleja. El objetivo es presentar los diferentes significados en la construcción de un modelo  prospectivo  de  ordenamiento  territorial  a  partir  de  las  potencialidades  comunes,  tomando  como  caso  Ráuira  (Boyacá), como estrategia integradora supramunicipal. 
+
+**2. Fuentes de datos**
 
 • Listado detallado de las fuentes de datos seleccionadas. Mínimo 3 conjuntos de datos vectoriales. Incluir información del proveedor de los datos, enlace para descarga, título y descripción del conjunto de datos, descripción de los atributos principales a utilizar. 
 
-# • Páramos delimitados. Escala 1:25.000 
+**• Páramos delimitados. Escala 1:25.000**
 
 **Información del proveedor:** El Sistema de Información Ambiental de Colombia (SIAC) “Es el conjunto integrado de actores, políticas, procesos, y tecnologías involucrados en la gestión de información ambiental del país, para facilitar la generación de conocimiento, la toma de decisiones, la educación y la participación social para el desarrollo sostenible”.
 
@@ -31,7 +36,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Descripción atributos:** Páramo, Departamento, Área 
 
-**•Ecosistemas generales de Colombia ** 
+**•Ecosistemas generales de Colombia** 
 
 **Información del proveedor:** El Sistema de Información Ambiental de Colombia (SIAC) “Es el conjunto integrado de actores, políticas, procesos, y tecnologías involucrados en la gestión de información ambiental del país, para facilitar la generación de conocimiento, la toma de decisiones, la educación y la participación social para el desarrollo sostenible”.
 
@@ -39,7 +44,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Título y descripción:**  De acuerdo con el mapa de ecosistemas continentales, costeros y marinos de Colombia, escala 1:100.000 (IDEAM, et al, 2015), Colombia cuenta con 98 tipos de ecosistemas generales, 74 corresponden a ecosistemas naturales y 24 a ecosistemas transformados y más de 8000 ecosistemas específicos.
 
-**Descripción atributos:** 
+**Descripción atributos:** nombre ecosistema
 
 **• Cobertura de la tierra 2010-2012 *** 
 
@@ -49,7 +54,6 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Título y descripción:**  La "Cobertura" de la tierra, es la cobertura (bio) física que se observa sobre la superficie de la tierra (Di Gregorio, 2005), en un término amplio no solamente describe la vegetación y los elementos antrópicos existentes sobre la tierra, sino que también describen otras superficies terrestres como afloramientos rocosos y cuerpos de agua. En términos puntuales para la delimitación de las coberturas de la Tierra, el IDEAM (1997) describe la cobertura como la unidad delimitable que surge a partir de un análisis de respuestas espectrales determinadas por sus características fisionómicas y ambientales, diferenciables con respecto a la unidad próxima.
 
-**Descripción atributos:** 
 
 **• Cartografía Base escala 1:25.000** 
 
@@ -59,10 +63,10 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 **Título y descripción:**  Información espacial a escala 1:25.000 que se  integrara  en  una  geodatabasedel  Instituto  Geográfico  Agustín Codazzi (Igac, 2005), constituida por los Feature Datasets:  edificación  de  obra  civil,  transporte  terrestre,  transporte aéreo, instalación de construcciones  para  transporte,  cobertura  vegetal,  superficies  de agua, relieve, entidades territoriales y unidades administrativas  y  topónimos.
 
-**Descripción atributos:** 
+**Descripción atributos:** cobertura vegetal, vías
 
 
-# 3. Procesamiento de datos 
+**3. Procesamiento de datos** 
 
 • Descripción detallada del procesamiento realizado a los datos (algoritmos, herramientas utilizadas, modelos, etc)
 
@@ -128,7 +132,7 @@ Se edita la capa que va a ser publicada
 ![Qgis]( pantallazo13.png "conexion base de datos")
 ![Qgis]( pantallazo16.png "conexion base de datos")
 
-# 4. Capa Simbología SLD 
+**4. Capa Simbología SLD** 
 
 **• Publicar una de las capas utilizando simbología basada en SLD**
 
@@ -1222,7 +1226,7 @@ Observamos la previsualización:
 
 
 
-# 6. Capa Simbología YSLD 
+**6. Capa Simbología YSLD** 
 
 Para crear la simbología YSLD se deb acceder a geoserver hacer clic en estilo> agragar un nuevo estilo, llenar cada uni de los campos  tal como se ilustra a continuación: 
 
@@ -1257,7 +1261,7 @@ feature-styles:
 ```
 ![Qgis]( pantallazo32.png "conexion base de datos")
 
-# 7. Grupo de capas 
+**7. Grupo de capas** 
 
 • Crear un layer group (https://docs.geoserver.org/stable/en/user/data/webadmin/layergroups.html ) que contenga las capas creadas en los puntos, y   y las adicionales que considere necesarias para darle contexto a la visualización ( ejm. límites departamentales, límites municipales, límites internacionales, etc)
 
@@ -1269,9 +1273,11 @@ Se guarda y se previsualizan las capas
 
 ![Qgis]( pantallazo34.png "conexion base de datos")
 
-• Adjuntar  el URL  de la previsualización openlayers del conjunto de capas generada por Geoserver.Ejemplo: http://34.83.176.208:18080/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=tiger-ny&bbox=-74.047185%2C40.679648%2C-73.907005%2C40.882078&width=531&height=768&srs=EPSG%3A4326&format=application/openlayers
+• Adjuntar  el URL  de la previsualización openlayers del conjunto de capas generada por Geoserver.
 
-# 8. Conclusiones 
+http://34.83.176.208:18080/geoserver/clase_2020_01/wms?service=WMS&version=1.1.0&request=GetMap&layers=clase_2020_01%3Axc_grupo_capas&bbox=-73.7734230655284%2C5.224794033953628%2C-73.37654574780696%2C5.711754227177057&width=625&height=768&srs=EPSG%3A4686&format=application/openlayers#toggle
+
+**8. Conclusiones** 
 
 • Publicar un video en Loom ( https://www.loom.com/ ) de mínimo 5 minutos y máximo 8 y adjuntar el url del mismo. 
 • En el video describa brevemente lo siguiente: 
