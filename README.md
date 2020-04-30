@@ -20,7 +20,7 @@ En consecuencia, el ordenamiento territorial como proceso de apropiación de la 
 
 Las potencialidades cuentan con grandes ofertas productivas en nuestro país gracias a diversos factores relacionados con características climáticas, composición de suelos, geomorfología, riqueza hídrica, diversidad de fauna y flora, entre otros. De modo tal que existen importantes extensiones de terreno aptas para ello que, ejecutadas bajo técnicas de producción armónicas con el aspecto ambiental, econó-mico y social, brindan un desarrollo para la gran mayoría de los municipios colombianos y particularmente para los correspondientes al departamento de Boyacá.
 
-El  caso  particular  del  municipio  de  Ráquira (Boyacá,  Colombia), se destaca la divergencia de dinámicas en cuanto  al  sector  m agrícola;En consecuencia, estos datos reflejan la necesidad de optimizar estructuras de forma y de fondo que promuevan mejores resultados bajo esquemas supramunici-pales, con los que ambas potencialidades se desarrollen de manera sistémica, sostenible e incluyente.Para  el  ordenamiento  territorial  es  necesario  tener  en  cuenta que un modelo corresponde a un diseño realizado por  un  observador  que  establece  y  modera  las  relaciones  sistémicas compleja. El objetivo es presentar los diferentes significados en la construcción de un modelo  prospectivo  de  ordenamiento  territorial  a  partir  de  las  potencialidades  comunes,  tomando  como  caso  Ráuira  (Boyacá), como estrategia integradora supramunicipal. 
+El  caso  particular  del  municipio  de  Ráquira (Boyacá,  Colombia), se destaca la divergencia de dinámicas en cuanto  al  sector  m agrícola;En consecuencia, estos datos reflejan la necesidad de optimizar estructuras de forma y de fondo que promuevan mejores resultados bajo esquemas supramunici-pales, con los que ambas potencialidades se desarrollen de manera sistémica, sostenible e incluyente.Para  el  ordenamiento  territorial  es  necesario  tener  en  cuenta que un modelo corresponde a un diseño realizado por  un  observador  que  establece  y  modera  las  relaciones  sistémicas compleja. El objetivo es presentar los diferentes significados en la construcción de un modelo  prospectivo  de  ordenamiento  territorial  a  partir  de  las  potencialidades  comunes,  tomando  como  caso  Ráquira  (Boyacá), como estrategia integradora supramunicipal. 
 
 **2. Fuentes de datos**
 
@@ -1279,11 +1279,5 @@ http://34.83.176.208:18080/geoserver/clase_2020_01/wms?service=WMS&version=1.1.0
 
 **8. Conclusiones** 
 
-• Publicar un video en Loom ( https://www.loom.com/ ) de mínimo 5 minutos y máximo 8 y adjuntar el url del mismo. 
-• En el video describa brevemente lo siguiente: 
-* Problema planteado 
-* Procesamiento y análisis realizado a los datos 
-* Proceso de publicación de capas 
-* Conclusiones del ejercicio desde el punto de vista temático según problema definido. 
-Tutorial de loom https://support.loom.com/hc/en-us/articles/360006847737-Guide-to-Using-Loom-for-Education 
+• https://www.loom.com/share/ee93d40b238c4380a314a2655cead553
 
